@@ -1,2 +1,2 @@
 source ./shell_prompt.sh
-PS1="$(print_date) %d % "
+PS1="$(weather_icon) %d % "
